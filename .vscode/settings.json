@@ -1,3 +1,4 @@
 {
-  "python.pythonPath": "jupyter/bin/python"
+  "python.pythonPath": "jupyter/bin/python",
+  "workbench.colorTheme": "Solarized Light"
 }
